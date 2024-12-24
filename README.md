@@ -2,53 +2,84 @@
 
 **Effective Date:** 01.01.2024.
 
-Your privacy is of paramount importance to us. Emma Logistics is committed to protecting your personal data and ensuring that your user experience is safe and transparent. This privacy policy explains how we collect, use, and safeguard your information.
+Emma Logistics values your privacy and is dedicated to protecting your personal data. This Privacy Policy explains how we collect, use, share, and protect your information, ensuring compliance with relevant data protection laws.
 
 ## Data We Collect
 
-We collect the following types of data:
+We collect the following types of information to provide and improve our services:
 
-- **Personal Information** – Name, surname, email address, phone number.  
-- **Vehicle and Cargo Information** – Registration details, body type, cargo type.  
-- **Technical Data** – IP address, device data, cookies.  
+### 1. Personal Information
+- **Name and Surname**
+- **Email Address**
+- **Phone Number**
+
+### 2. Vehicle and Cargo Information
+- **Vehicle Registration Details**
+- **Body Type**
+- **Cargo Type**
+
+### 3. Technical Data
+- **IP Address**
+- **Device and Browser Information**
+- **Cookies and Tracking Technologies**
 
 ## How We Use Your Data
 
-Your data is used for:
+We process the collected data for the following purposes:
+- **Platform Services** – To enable and manage Emma Logistics platform services.
+- **Offer and Transport Management** – For processing and managing transport and cargo offers.
+- **Communication and Support** – To provide customer support and respond to inquiries.
+- **Improvements and Analytics** – To enhance and personalize user experience and improve platform performance.
 
-- Providing Emma Logistics platform services.  
-- Processing and managing offers and transports.  
-- Communication and customer support.  
-- Improving our services.  
+## Sharing of Data
 
-## Sharing Data
+We do not sell your personal data. However, data may be shared in limited circumstances:
+- **Contractual Obligations** – With logistics providers, drivers, or third parties to fulfill transport services.
+- **Legal Requirements** – When required by law or governmental request.
+- **User Consent** – With your explicit permission for specific purposes.
 
-We do not share your personal data with third parties except in the following cases:
+## Third-Party Services
 
-- When necessary to fulfill contractual obligations.  
-- When required by law.  
-- With your explicit consent.  
+Emma Logistics may use third-party services (such as Google Maps, payment processors, etc.). These services operate under their own privacy policies. Please review their policies for more information.
 
 ## Your Rights
 
-You have the right to:
+As a user, you have the following rights concerning your data:
+- **Access** – Request access to your data.
+- **Correction** – Request correction of inaccurate or incomplete data.
+- **Deletion** – Request deletion of your data (right to be forgotten).
+- **Restrict Processing** – Request to limit processing of your data.
+- **Data Portability** – Request a copy of your data in a machine-readable format.
 
-- **Access** your data.  
-- **Correct** inaccurate data.  
-- **Delete** data (right to be forgotten).  
-- **Restrict** processing.  
-- **Data portability.**  
-
-To exercise your rights, contact us at: **certidevelopment@gmail.com**  
+To exercise your rights, contact us at: **certidevelopment@gmail.com**. We will respond within 30 days.
 
 ## Data Security
 
-We have implemented technical and organizational security measures to ensure the safety of your data.  
+Emma Logistics employs technical and organizational measures to ensure the security of your data. This includes encryption, secure storage, and limited access to personal data.
 
-## Cookies
+## Cookies and Tracking Technologies
 
-We use cookies to enhance the app's functionality. You can manage cookies through your browser settings.  
+Emma Logistics uses cookies to enhance user experience and analyze app usage. Users can manage cookie preferences through browser settings. Disabling cookies may affect app functionality.
+
+## Demo Account and Testing Information
+
+For app testing and compliance purposes, Emma Logistics provides the following demo account credentials for authorized reviewers:
+
+- **Username:** test@test.com
+- **Password:** 12345
+
+These credentials allow access to all app features required for review.
+
+## Children’s Privacy
+
+Emma Logistics does not knowingly collect personal data from children under the age of 13. If you believe that we have collected such data, contact us immediately for deletion.
 
 ## Changes to the Privacy Policy
 
-We reserve the right to amend this privacy policy. All changes will be published on our website.  
+Emma Logistics reserves the right to update this Privacy Policy. Any changes will be posted on our website and app. Users will be notified of significant updates.
+
+**For questions or concerns regarding this Privacy Policy, contact us at:**  
+**certidevelopment@gmail.com**  
+
+Thank you for trusting Emma Logistics.
+
