@@ -39,7 +39,7 @@ You have the right to:
 - **Restrict** processing.  
 - **Data portability.**  
 
-To exercise your rights, contact us at: **support@emmalogistics.com**  
+To exercise your rights, contact us at: **certidevelopment@gmail.com**  
 
 ## Data Security
 
